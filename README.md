@@ -1,7 +1,7 @@
 # System UX Case Study
 
 ## 🧠 Overview
-Designed a system-level UX improvement for a car leasing platform, focusing on reducing cognitive load and improving decision-making efficiency for different user types.
+Designed a system-level UX improvement for a car leasing platform, focusing on reducing cognitive load and improving decision-making efficiency for different user types. [Link to the presentation in Canva](https://www.canva.com/design/DAHE3d2uvro/t5ppDAEUnPmqXuuDDsobGA/view?utm_content=DAHE3d2uvro&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hccd9288657)
 
 ---
 
