@@ -1,7 +1,7 @@
 # System UX Case Study
 
 ## 🧠 Overview
-Designed a system-level UX improvement for a car leasing platform, focusing on reducing cognitive load and improving decision-making efficiency for different user types. [Link to the presentation in Canva](https://www.canva.com/design/DAHE3d2uvro/t5ppDAEUnPmqXuuDDsobGA/view?utm_content=DAHE3d2uvro&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hccd9288657)
+Designed a system-level UX improvement for a car leasing platform, focusing on reducing cognitive load and improving decision-making efficiency for different user types. [Click here to see the full presentation](https://www.canva.com/design/DAHE3d2uvro/t5ppDAEUnPmqXuuDDsobGA/view?utm_content=DAHE3d2uvro&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hccd9288657)
 
 ---
 
@@ -18,7 +18,16 @@ Designed a system-level UX improvement for a car leasing platform, focusing on r
 
 These issues impacted usability and slowed down decision-making.
 
+<div>
+<img src="images/before_home_page.png" alt="home page" width="435 "/>
+<img src="images/before_car_page.png" alt="car page" width="400"/>
+</div>
+
+<p>(home and model pages from lingscars.com) </p>
+
+
 ---
+
 ## 🔍 Thinking Process
 **The approach included:**
 - UX analysis using Gestalt principles (hierarchy, proximity, balance)
@@ -56,6 +65,11 @@ Each persona highlighted different system requirements and constraints.
 - Designed consistent card/table layout for easy comparison
 
 - Improved navigation and system feedback
+
+![home page](images/home_page.png)
+![car page](images/car_page.png)
+
+<p>(home and model pages after changes) </p>
 
 ---
 
